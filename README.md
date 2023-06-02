@@ -53,4 +53,4 @@ Here is a highlight ==word==.
 
 Here is a subscrit : H~2~O
 
-Here is Superscript : X^2^
+Here is superscript : X^2^
